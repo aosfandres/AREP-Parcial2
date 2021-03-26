@@ -47,8 +47,12 @@ Salida. El formato de la salida y la respuesta debe ser un JSON con el siguiente
  "output":  -0.999999
 
 }
+ 
+# VIDEO
 
-# EVIDENCIA
+https://github.com/aosfandres/AREP-Parcial2/blob/main/video.mp4
+
+# EVIDENCIAS
 
 ## Prueba local
 
@@ -98,7 +102,7 @@ Para la implemtetacion lambda se creo una nueva clase llamada Lambda, que contie
 
 ![](https://github.com/aosfandres/AREP-Parcial2/blob/main/images/8.PNG)
 
-- Se implementa el API y se prueba 
+- Se implementa el API y se prueba y ademas permite ser consultada una vez implemntada por esta direection: https://q71uuwsz9k.execute-api.us-east-1.amazonaws.com/parcial2/asin?value=-1 aca podemos cambiar el valor y la fincion antes del valor es decir /tan?value=1 o /asin?value=-1 
 
 - Prueba para Asin desde el API
 
